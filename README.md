@@ -1,4 +1,4 @@
-# Faithful Baseline Value
+# LLFC: Layerwise Linear Feature Connectivity
 
 ## Abstract
 
